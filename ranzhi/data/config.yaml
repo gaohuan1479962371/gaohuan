@@ -1,0 +1,5 @@
+# {LoginPage:{  account: 'i,account',  password: 'i,password',  submit: 'i,submit'}}
+LoginPage:
+  account: 'i,account'
+  password: 'i,password'
+  submit: 'i,submit'
